@@ -1,0 +1,680 @@
+2025-11-27 13:05:57,288 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\New folder (3)\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 13:05:57,288 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\New folder (3)\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 13:05:58,294 - INFO - News error: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-11-27 13:06:37,435 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\New folder (3)\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 13:06:37,436 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\New folder (3)\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 13:06:38,166 - INFO - News error: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-11-27 13:07:42,785 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\New folder (3)\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 13:07:42,785 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\New folder (3)\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:30:35,301 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:30:35,302 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:31:35,952 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:31:35,952 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:36:19,469 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:36:19,469 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:37:46,501 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:37:46,502 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:41:26,503 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:41:26,504 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:51:40,169 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:51:40,169 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:51:47,836 - INFO - Calling OpenAI API (masked key).
+2025-11-27 15:51:47,837 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 15:52:07,162 - INFO - Calling OpenAI API (masked key).
+2025-11-27 15:52:07,162 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 15:58:32,533 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 15:58:32,534 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 15:58:48,142 - INFO - Calling OpenAI API (masked key).
+2025-11-27 15:58:48,142 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 15:59:11,031 - INFO - Calling OpenAI API (masked key).
+2025-11-27 15:59:11,032 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 16:00:25,156 - INFO - Calling OpenAI API (masked key).
+2025-11-27 16:00:25,156 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 16:00:31,488 - INFO - Calling OpenAI API (masked key).
+2025-11-27 16:00:31,489 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 16:00:35,236 - INFO - Calling OpenAI API (masked key).
+2025-11-27 16:00:35,237 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 16:03:05,726 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:03:05,727 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:03:13,085 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:03:13,086 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:04:42,526 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:04:42,527 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:08:01,565 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:08:01,565 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:10:28,430 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:10:28,431 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:10:47,105 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:10:47,105 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:25:14,634 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 16:25:14,634 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 16:25:14,738 - INFO - OpenAI API key found in config.json (masked sk-pro...EwfaUA).
+2025-11-27 16:25:53,792 - INFO - Calling OpenAI API (masked key).
+2025-11-27 16:25:53,792 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 18:57:56,068 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 18:57:56,068 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 18:57:56,323 - INFO - OpenAI API key found in environment (masked your-a...y-here).
+2025-11-27 19:01:00,479 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:01:00,479 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:01:00,669 - INFO - OpenAI API key found in environment (masked your-a...y-here).
+2025-11-27 19:01:07,642 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:01:07,643 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 19:01:29,813 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:01:29,813 - INFO - OpenAI error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-11-27 19:04:33,973 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:04:33,974 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:04:34,142 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:04:34,143 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:04:34,143 - INFO - New OpenAI client error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:04:34,143 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:06:55,128 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:06:55,129 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:06:55,372 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:06:55,373 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:06:56,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:06:56,580 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:06:56,580 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:07:43,774 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:07:43,775 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:07:43,960 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:07:43,960 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:07:43,960 - INFO - New OpenAI client init error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:07:43,960 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:08:31,736 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:08:31,737 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:08:31,972 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:08:31,973 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:08:31,974 - INFO - New OpenAI client init error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:08:31,974 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:09:23,375 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:09:23,376 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:09:23,575 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:09:23,576 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:09:23,576 - INFO - New OpenAI client init error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:09:23,576 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:10:04,580 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:10:04,581 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:10:04,748 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:10:04,749 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:10:04,750 - INFO - New OpenAI client error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:10:04,750 - INFO - Installed openai package is v1+. Legacy ChatCompletion is not supported; aborting.
+2025-11-27 19:11:07,584 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:11:07,584 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:11:07,755 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:11:07,756 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:11:07,756 - INFO - New OpenAI client init error: Client.__init__() got an unexpected keyword argument 'proxies' — falling back to legacy openai SDK.
+2025-11-27 19:11:07,756 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:12:13,910 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:12:13,910 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:12:14,021 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:12:21,072 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:12:23,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:12:23,904 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-********-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}}
+2025-11-27 19:12:35,671 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:12:36,592 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:12:36,592 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-********-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}}
+2025-11-27 19:14:37,255 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:14:38,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:14:38,161 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-********-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}}
+2025-11-27 19:17:42,329 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:17:42,329 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:17:42,555 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:17:57,764 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:17:59,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:17:59,067 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-27 19:22:29,714 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:22:29,714 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:22:29,968 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:22:47,949 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:22:49,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:22:49,303 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-27 19:25:49,048 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:25:49,048 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:25:49,285 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:26:10,628 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:26:12,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:26:12,069 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-27 19:30:02,671 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:30:02,671 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:30:02,844 - INFO - OpenAI API key not found in environment or config.json at startup.
+2025-11-27 19:30:16,652 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:30:18,055 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:30:18,057 - INFO - New OpenAI client error (API/transport): Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-27 19:38:08,634 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:38:08,635 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:38:08,816 - INFO - OpenAI API key found in environment (masked your-a...y-here).
+2025-11-27 19:38:08,818 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:38:12,193 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:38:12,195 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:42:09,232 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:42:09,233 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:42:09,390 - INFO - OpenAI API key found in environment (masked your-a...y-here).
+2025-11-27 19:42:09,391 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:42:10,904 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:42:10,906 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:42:10,906 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:44:34,726 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-27 19:44:34,726 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-27 19:44:34,935 - INFO - OpenAI API key found in environment (masked your-a...y-here).
+2025-11-27 19:44:41,942 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:44:43,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:44:43,419 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:44:43,419 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:44:47,166 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:44:48,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:44:48,100 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:44:48,101 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-27 19:46:18,187 - INFO - Calling OpenAI API (masked key).
+2025-11-27 19:46:19,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-27 19:46:19,241 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} — falling back to legacy openai SDK.
+2025-11-27 19:46:19,241 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 08:14:17,263 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 08:14:17,265 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 08:14:17,885 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 08:14:40,695 - INFO - Calling OpenAI API (masked key).
+2025-11-28 08:14:45,223 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 08:14:45,264 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 08:14:45,265 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 09:17:44,481 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 09:17:44,483 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 09:17:45,090 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 09:18:02,095 - INFO - Calling OpenAI API (masked key).
+2025-11-28 09:18:04,718 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 09:18:04,718 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 09:18:04,719 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 12:31:22,882 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 12:31:22,883 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 12:31:23,331 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 12:32:04,417 - INFO - Calling OpenAI API (masked key).
+2025-11-28 12:32:07,040 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 12:32:07,042 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 12:32:07,042 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 12:33:20,604 - INFO - Calling OpenAI API (masked key).
+2025-11-28 12:33:21,440 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 12:33:21,441 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 12:33:21,441 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 12:35:49,289 - INFO - Calling OpenAI API (masked key).
+2025-11-28 12:35:50,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 12:35:50,221 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 12:35:50,221 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 18:29:09,561 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 18:29:09,561 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 18:29:09,915 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 18:32:35,008 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 18:32:35,012 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 18:32:36,128 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 18:33:03,579 - INFO - Calling OpenAI API (masked key).
+2025-11-28 18:33:05,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 18:33:05,983 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 18:33:05,983 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 18:50:18,991 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 18:50:18,992 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 18:50:19,078 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 18:51:02,175 - INFO - Calling OpenAI API (masked key).
+2025-11-28 18:51:03,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 18:51:03,280 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 18:51:03,280 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 18:51:11,647 - INFO - Calling OpenAI API (masked key).
+2025-11-28 18:51:12,656 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 18:51:12,657 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 18:51:12,657 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-11-28 18:52:43,669 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-28 18:52:43,669 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-11-28 18:52:43,768 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-11-28 18:52:50,703 - INFO - Calling OpenAI API (masked key).
+2025-11-28 18:52:51,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-11-28 18:52:51,650 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-11-28 18:52:51,650 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-09 15:55:10,567 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 15:55:10,568 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 15:55:11,973 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-12-09 15:55:12,051 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.13:5000
+2025-12-09 15:55:12,051 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-09 15:55:12,052 - INFO -  * Restarting with stat
+2025-12-09 15:55:13,232 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 15:55:13,232 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 15:55:13,331 - INFO - OpenAI API key found in environment (masked sk-you...y-here).
+2025-12-09 15:55:13,344 - WARNING -  * Debugger is active!
+2025-12-09 15:55:13,348 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:29:06,482 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:29:06,483 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:29:07,208 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:29:07,240 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.163:5000
+2025-12-09 16:29:07,240 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-09 16:29:07,242 - INFO -  * Restarting with stat
+2025-12-09 16:29:08,149 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:29:08,149 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:29:08,253 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:29:08,264 - WARNING -  * Debugger is active!
+2025-12-09 16:29:08,266 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:30:55,986 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:30:55,987 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:30:56,111 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:32:01,209 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:32:01,437 - INFO -  * Restarting with stat
+2025-12-09 16:32:02,389 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:32:02,389 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:32:02,509 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:32:02,521 - WARNING -  * Debugger is active!
+2025-12-09 16:32:02,523 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:32:15,862 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:32:16,030 - INFO -  * Restarting with stat
+2025-12-09 16:32:17,133 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:32:17,133 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:32:17,261 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:32:17,287 - WARNING -  * Debugger is active!
+2025-12-09 16:32:17,293 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:32:18,144 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:32:18,144 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:32:18,245 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:32:38,730 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:32:38,731 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:32:38,816 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:32:38,817 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:32:41,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:32:41,147 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:32:41,147 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-09 16:33:09,150 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:33:14,324 - INFO -  * Restarting with stat
+2025-12-09 16:33:15,529 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:33:15,529 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:33:15,660 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:33:15,677 - WARNING -  * Debugger is active!
+2025-12-09 16:33:15,680 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:33:20,255 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:33:20,256 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:33:20,375 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:33:20,375 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:33:21,499 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:33:21,500 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:33:21,500 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-09 16:33:47,980 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:33:48,144 - INFO -  * Restarting with stat
+2025-12-09 16:33:49,083 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:33:49,083 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:33:49,170 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:33:49,181 - WARNING -  * Debugger is active!
+2025-12-09 16:33:49,183 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:35:42,122 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:35:42,267 - INFO -  * Restarting with stat
+2025-12-09 16:35:43,342 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:35:43,342 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:35:43,515 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:35:43,534 - WARNING -  * Debugger is active!
+2025-12-09 16:35:43,537 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:35:47,313 - INFO -  * Detected change in 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\main_fixed.py', reloading
+2025-12-09 16:35:47,490 - INFO -  * Restarting with stat
+2025-12-09 16:35:48,495 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:35:48,496 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:35:48,629 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:35:48,647 - WARNING -  * Debugger is active!
+2025-12-09 16:35:48,650 - INFO -  * Debugger PIN: 333-625-643
+2025-12-09 16:35:55,849 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:35:55,849 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:35:55,954 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:35:56,416 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:35:57,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:35:57,438 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:35:57,439 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-09 16:39:56,721 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:39:56,721 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:39:56,814 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:39:56,818 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:39:56,818 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:39:57,828 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:39:57,830 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:39:57,830 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-09 16:41:30,718 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:41:30,719 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:41:30,844 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:41:30,850 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:41:30,850 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:41:32,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:41:32,023 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:42:11,217 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:42:11,218 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:42:11,332 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:42:11,336 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:42:11,336 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:42:12,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:42:12,364 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:43:16,161 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-09 16:43:16,161 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-09 16:43:16,248 - INFO - OpenAI API key found in environment (masked ***).
+2025-12-09 16:43:23,441 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:43:35,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:43:35,386 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-09 16:43:55,365 - INFO - Calling OpenAI API (masked key).
+2025-12-09 16:43:55,984 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-09 16:43:55,984 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-10 14:13:13,793 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:13:13,794 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-10 14:13:14,087 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-10 14:13:21,515 - INFO - Calling OpenAI API (masked key).
+2025-12-10 14:13:23,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-10 14:13:23,931 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-10 14:13:35,779 - INFO - Calling OpenAI API (masked key).
+2025-12-10 14:13:36,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-10 14:13:36,700 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-10 14:14:53,874 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:14:53,875 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-10 14:14:54,001 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-10 14:15:26,668 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:15:26,669 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-10 14:15:26,857 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-10 14:15:26,857 - INFO - Calling OpenAI API (masked key).
+2025-12-10 14:15:28,146 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-10 14:15:28,148 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-10 14:15:28,148 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-10 14:16:34,622 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:16:34,624 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-10 14:16:34,833 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-10 14:16:34,843 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-10 14:16:34,844 - INFO - Calling OpenAI API (masked key).
+2025-12-10 14:16:36,754 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-10 14:16:36,755 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}} — falling back to legacy openai SDK.
+2025-12-10 14:18:08,392 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:18:08,393 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-12-10 14:18:08,637 - INFO - OpenAI API key found in environment (masked sk-REP...UR_KEY).
+2025-12-10 14:18:42,131 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:18:42,132 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-12-10 14:18:42,252 - INFO - OpenAI API key found in environment (masked sk-REP...UR_KEY).
+2025-12-10 14:18:42,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.171:5000
+2025-12-10 14:18:42,290 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-10 14:18:42,306 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-10 14:18:43,794 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-10 14:18:43,795 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-12-10 14:18:44,000 - INFO - OpenAI API key found in environment (masked sk-REP...UR_KEY).
+2025-12-10 14:18:44,019 - WARNING -  * Debugger is active!
+2025-12-10 14:18:44,022 - INFO -  * Debugger PIN: 852-024-527
+2025-12-13 15:34:08,701 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-13 15:34:08,702 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-13 15:34:09,010 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-13 15:34:21,057 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-13 15:34:21,058 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-13 15:34:21,163 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-13 15:34:21,164 - INFO - Calling OpenAI API (masked key).
+2025-12-13 15:34:24,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-13 15:34:24,801 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401} — falling back to legacy openai SDK.
+2025-12-13 15:34:24,801 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-13 15:35:01,479 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-13 15:35:01,479 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-13 15:35:01,572 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-13 15:35:01,572 - INFO - Calling OpenAI API (masked key).
+2025-12-13 15:35:02,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-13 15:35:02,674 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401} — falling back to legacy openai SDK.
+2025-12-13 15:35:02,674 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-12-13 15:35:36,059 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-13 15:35:36,059 - INFO - Using writeable comtypes cache directory: 'c:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-13 15:35:36,160 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-13 15:35:36,160 - INFO - Calling OpenAI API (masked key).
+2025-12-13 15:35:37,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-12-13 15:35:37,271 - INFO - New OpenAI client error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-<your******key>. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401} \ufffd evaluating fallback.
+2025-12-13 15:35:37,272 - INFO - Detected invalid OpenAI API key (401). Aborting request.
+2025-12-13 15:39:01,586 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-13 15:39:01,587 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-13 15:39:01,777 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-24 13:50:04,862 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Ramya Trivedi\\OneDrive\\Desktop\\Jarvis ai\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-24 13:50:04,863 - INFO - Using writeable comtypes cache directory: 'C:\Users\Ramya Trivedi\OneDrive\Desktop\Jarvis ai\.venv\Lib\site-packages\comtypes\gen'
+2025-12-24 13:50:05,029 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2025-12-24 13:50:05,033 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-12-24 13:50:05,133 - INFO - # Generating comtypes.gen.SpeechLib
+2025-12-24 13:50:06,053 - INFO - OpenAI API key found in environment (masked sk-<yo...l-key>).
+2025-12-24 13:50:23,587 - INFO - Calling OpenAI API (masked key).
+2025-12-24 13:50:26,035 - INFO - Retrying request to /chat/completions in 0.377755 seconds
+2025-12-24 13:50:26,416 - INFO - Retrying request to /chat/completions in 0.976257 seconds
+2025-12-24 13:50:27,395 - INFO - New OpenAI client error: Connection error. \ufffd evaluating fallback.
+2025-12-24 13:50:27,396 - INFO - New OpenAI client error not recognized as auth/quota; falling back to legacy openai SDK.
+2025-12-24 13:50:27,396 - INFO - OpenAI error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+

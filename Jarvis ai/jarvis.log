@@ -1,0 +1,16 @@
+{
+    "email_user": "trivediramya8@gmail.com",
+    "email_pass": "ramya@1234567",
+    
+    "openai_api_key": "ramya.openai.com",
+    
+    "weather_api_key": "openweathermap",
+    
+    "news_api_key": "YOUR_NEWSAPI_KEY",
+
+    "music_dir": "C:/Users/Ramya Trivedi/Music",
+
+    "default_city": "Hyderabad",
+
+    "code_path": "C:/Users/Ramya Trivedi/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+}

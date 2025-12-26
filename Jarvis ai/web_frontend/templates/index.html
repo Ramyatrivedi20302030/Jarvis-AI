@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Jarvis Web</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+    <div class="app">
+        <header>
+            <h1>Jarvis</h1>
+            <p class="subtitle">A lightweight web front-end for Jarvis assistant</p>
+        </header>
+
+        <main>
+            <div id="chat" class="chat"></div>
+            <div class="composer">
+                <input id="message" type="text" placeholder="Type a message..." autocomplete="off" />
+                <button id="send">Send</button>
+            </div>
+        </main>
+
+        <footer>
+            <small>Local only — runs against your local Jarvis backend.</small>
+        </footer>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+
+</html>

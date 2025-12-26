@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+googletrans
+newsapi-python
+pyjokes
+schedule
+openai
+requests
+python-dotenv
+flask
+httpx
+

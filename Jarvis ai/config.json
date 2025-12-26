@@ -1,0 +1,12 @@
+{
+    "email_user": "your-email@example.com",
+    "email_pass": "ramya@1234567",
+    "openai_api_key": "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",
+    "openai_model": "gpt-3.5-turbo",
+    "enable_raptor_mini_for_all_clients": true,
+    "weather_api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "news_api_key": "<PUT_YOUR_KEY_HERE>",
+    "music_dir": "C:/Users/Ramya Trivedi/Music",
+    "default_city": "Hyderabad",
+    "code_path": "C:/Users/Ramya Trivedi/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+}
